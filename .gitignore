@@ -1,0 +1,6 @@
+*.zip
+squeeze*/
+tiny_imagenet/
+__pycache__/
+# *.txt
+*dev*
